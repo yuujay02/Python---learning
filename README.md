@@ -1,4 +1,4 @@
-﻿# python-learning
+# python-learning
 
 This repository contains Python learning projects and practice scripts.
 
